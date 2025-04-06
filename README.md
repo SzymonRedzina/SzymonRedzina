@@ -2,7 +2,7 @@
 
 💻 I'm passionate about developing both backend and frontend for web applications.
 
-🌱 Currently learning Java and its frameworks, especially Spring Boot.
+🌱 Currently learning Angular, Java and its frameworks, especially Spring Boot.
 
 🎓 I'm a high school student specializing in software development.
 
