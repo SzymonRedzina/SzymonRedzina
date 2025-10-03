@@ -1,5 +1,5 @@
-👋 Hi, I'm Szymon!
-
+👋 Hi, I'm Szymon! https://szymonredzina.github.io/Portfolio/
+ 
 💻 I'm passionate about developing both backend and frontend for web applications.
 
 🌱 Currently learning Angular, Java and its frameworks, especially Spring Boot.
